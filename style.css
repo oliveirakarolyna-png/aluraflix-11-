@@ -1,7 +1,22 @@
 body{
     background-color: rgb(251, 175, 182);
+color:rgb(94, 61, 125);
+font-family: 'Courier New', Courier, monospace;
+margin: 0px;    
+}
+h1{
+color:aqua;
+font-size: 40px;
+}
+p{
+font-size: 25px;
+}
+header{
+border-bottom:(rgb(192, 17, 49));
+margin: 2px;
+padding: 10px;
+color: rgb(231, 194, 11);
 
 
 
-    
 }
